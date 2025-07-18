@@ -1,0 +1,28 @@
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.exe
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.runtimeconfig.json
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.dll
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.dll
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\refint\Day2_FirstConsole.dll
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.genruntimeconfig.cache
+C:\Users\Subhendu Sarkar\source\repos\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\ref\Day2_FirstConsole.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.exe
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.deps.json
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.runtimeconfig.json
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\bin\Debug\net8.0\Day2_FirstConsole.pdb
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.AssemblyInfoInputs.cache
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.AssemblyInfo.cs
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.csproj.CoreCompileInputs.cache
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\refint\Day2_FirstConsole.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.pdb
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\Day2_FirstConsole.genruntimeconfig.cache
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day2_FirstConsole\Day2_FirstConsole\obj\Debug\net8.0\ref\Day2_FirstConsole.dll
