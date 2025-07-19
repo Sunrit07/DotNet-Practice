@@ -1,0 +1,28 @@
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.exe
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.runtimeconfig.json
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\refint\Day3_OOPSEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.genruntimeconfig.cache
+C:\Users\Subhendu Sarkar\source\repos\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\ref\Day3_OOPSEg.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.AssemblyInfoInputs.cache
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.AssemblyInfo.cs
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.csproj.CoreCompileInputs.cache
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\refint\Day3_OOPSEg.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.pdb
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.exe
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.deps.json
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.runtimeconfig.json
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.dll
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\bin\Debug\net8.0\Day3_OOPSEg.pdb
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\Day3_OOPSEg.genruntimeconfig.cache
+C:\Users\SUNRIT SARKAR\Desktop\DotNet NGA Training\.NET-ALL Classes\Day3_OOPSEg\Day3_OOPSEg\obj\Debug\net8.0\ref\Day3_OOPSEg.dll
