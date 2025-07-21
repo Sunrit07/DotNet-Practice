@@ -1,0 +1,14 @@
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\bin\Debug\net8.0\Day4_OOPSEg.exe
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\bin\Debug\net8.0\Day4_OOPSEg.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\bin\Debug\net8.0\Day4_OOPSEg.runtimeconfig.json
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\bin\Debug\net8.0\Day4_OOPSEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\bin\Debug\net8.0\Day4_OOPSEg.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\refint\Day4_OOPSEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\Day4_OOPSEg.genruntimeconfig.cache
+C:\Users\Subhendu Sarkar\source\repos\Day4_OOPSEg\Day4_OOPSEg\obj\Debug\net8.0\ref\Day4_OOPSEg.dll
