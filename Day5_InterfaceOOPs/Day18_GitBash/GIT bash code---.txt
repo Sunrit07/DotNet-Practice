@@ -1,0 +1,20 @@
+GIT bash code---
+
+create a new project
+ 
+1. nameoftheproject
+2. choose username in the URL text box//
+3. private to public
+4. remove the checkbox of Readme
+ 
+ 
+gitbash - repos folder
+ 
+1. git init (if already .git folder is there delete it(view -> hidden items and check box))  -> .git folder
+2. git remote add origin http://10.0.8.3:8929/username/projectname.git  -> git remote -v 
+3. git add .    (git status) -> red/green
+4. git commit -m "Initial commit"
+5. git push  origin master
+username and password
+ 
+git config --global user.email ""
