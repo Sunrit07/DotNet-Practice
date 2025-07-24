@@ -1,0 +1,14 @@
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\bin\Debug\net8.0\Day6_GenericEg.exe
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\bin\Debug\net8.0\Day6_GenericEg.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\bin\Debug\net8.0\Day6_GenericEg.runtimeconfig.json
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\bin\Debug\net8.0\Day6_GenericEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\bin\Debug\net8.0\Day6_GenericEg.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\refint\Day6_GenericEg.dll
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\Day6_GenericEg.genruntimeconfig.cache
+C:\Users\Subhendu Sarkar\source\repos\Day6_GenericEg\Day6_GenericEg\obj\Debug\net8.0\ref\Day6_GenericEg.dll
