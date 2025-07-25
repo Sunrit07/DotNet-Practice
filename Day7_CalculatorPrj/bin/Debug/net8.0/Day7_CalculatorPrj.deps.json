@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Day7_CalculatorPrj/1.0.0": {
+        "runtime": {
+          "Day7_CalculatorPrj.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Day7_CalculatorPrj/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

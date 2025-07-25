@@ -1,0 +1,14 @@
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\bin\Debug\net8.0\Day7_CalculatorPrj.exe
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\bin\Debug\net8.0\Day7_CalculatorPrj.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\bin\Debug\net8.0\Day7_CalculatorPrj.runtimeconfig.json
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\bin\Debug\net8.0\Day7_CalculatorPrj.dll
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\bin\Debug\net8.0\Day7_CalculatorPrj.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.dll
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\refint\Day7_CalculatorPrj.dll
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\Day7_CalculatorPrj.genruntimeconfig.cache
+C:\Users\Subhendu Sarkar\source\repos\Day7_CalculatorPrj\Day7_CalculatorPrj\obj\Debug\net8.0\ref\Day7_CalculatorPrj.dll
