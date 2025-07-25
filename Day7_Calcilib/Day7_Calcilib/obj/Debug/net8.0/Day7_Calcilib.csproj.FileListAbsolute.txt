@@ -1,0 +1,11 @@
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\bin\Debug\net8.0\Day7_Calcilib.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\bin\Debug\net8.0\Day7_Calcilib.dll
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\bin\Debug\net8.0\Day7_Calcilib.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\Day7_Calcilib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\Day7_Calcilib.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\Day7_Calcilib.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\Day7_Calcilib.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\Day7_Calcilib.dll
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\refint\Day7_Calcilib.dll
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\Day7_Calcilib.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day7_Calcilib\Day7_Calcilib\obj\Debug\net8.0\ref\Day7_Calcilib.dll
