@@ -1,0 +1,11 @@
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\bin\Debug\net8.0\Day8_BankLib.deps.json
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\bin\Debug\net8.0\Day8_BankLib.dll
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\bin\Debug\net8.0\Day8_BankLib.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\Day8_BankLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\Day8_BankLib.AssemblyInfoInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\Day8_BankLib.AssemblyInfo.cs
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\Day8_BankLib.csproj.CoreCompileInputs.cache
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\Day8_BankLib.dll
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\refint\Day8_BankLib.dll
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\Day8_BankLib.pdb
+C:\Users\Subhendu Sarkar\source\repos\Day8_BankLib\Day8_BankLib\obj\Debug\net8.0\ref\Day8_BankLib.dll
